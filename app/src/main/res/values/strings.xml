@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">daagas Media manager</string>
+    <string name="title_activity_video_player">VideoPlayer</string>
+    <string name="title_activity_visualizar">Visualizar</string>
+</resources>
